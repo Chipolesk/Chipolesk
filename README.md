@@ -22,7 +22,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,maven,idea,vscode,docker,azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,idea,docker,azure,aws,git,github,mysql&theme=dark" />
   <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/>
 </p>
 
